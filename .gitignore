@@ -1,0 +1,5 @@
+.DS_store
+*.ini
+*.txt
+!LICENSE.txt
+tests/
